@@ -1,6 +1,6 @@
 {
   "general": {
-    "coinIdentifier": "SKY",
+    "coinIdentifier": "TCH",
     "address": "Address",
     "coins": "Coins",
     "loadingMsg": "Loading...",
